@@ -1,0 +1,112 @@
+.container {
+  padding: 40px 20px;
+}
+
+body {
+  background: url(http://wallpaper-gallery.net/images/wallpaper-tree/wallpaper-tree-20.jpg);
+  background-color: #E6E6B3;
+}
+
+a:link {
+  padding: 0 20px;
+  font-family: 'Josefin Sans'; 'Arial';
+  color: #ffffff;
+  border: solid 5px transparent;
+  border-radius: 5px;
+}
+
+a:visited {
+  padding: 0 20px;
+  font-family: 'Josefin Sans'; 'Arial';
+  color: #ffffff;
+  background-color: #668D3C;
+  border: solid 5px #668D3C;
+  border-radius: 5px;
+}
+
+a:hover {
+  background-color: #BDD09F;
+  border: solid 5px #BDD09F;
+  color: #000000;
+  border-radius: 5px;
+}
+
+a:focus {
+  background-color: #BDD09F;
+  border: solid 5px #BDD09F;
+  color: #000000;
+  border-radius: 5px;
+}
+
+.bg-1 {
+  background-color: #404F24;
+  background: linear-gradient(to bottom, rgba(64,79,36, 1), rgba(64,79,36, 0));
+  color: #FFFFFF;
+  opacity: 0.85;
+}
+
+.bg-2 {
+  color: #000000;
+  opacity: 0.85;
+}
+
+.bg-3 {
+  background-color: #BDD09F;
+  background: linear-gradient(to top, rgba(189,208,159, 1), rgba(189,208,159, 0));
+  color: #000000;
+  opacity: 0.85;
+}
+
+#navigation {
+  margin-right: 5%;
+}
+
+#title {
+  font-size: 5em;
+  font-family: 'Lobster Two', 'Arial';
+}
+
+h2 {
+  font-family: 'Josefin Sans', 'Arial';
+  text-decoration: underline;
+}
+
+h4 {
+  font-family: 'Josefin Sans', 'Arial';
+}
+
+p {
+  font-family: 'Josefin Sans'; 'Arial';
+}
+
+li {
+  text-align: left;
+  margin-left: 25%;
+  font-family: 'Josefin Sans'; 'Arial';
+}
+
+form {
+  font-family: 'Josefin Sans'; 'Arial';
+}
+
+input {
+  font-family: 'Josefin Sans'; 'Arial';
+}
+
+label {
+  padding: 0 10px;
+}
+
+#updates {
+  font-family: 'Josefin Sans'; 'Arial';
+}
+
+#lastname {
+  text-align: center;
+  padding-top: 10px;
+}
+
+#email {
+  text-align: center;
+  padding: 10px 0 20px 0;
+}
